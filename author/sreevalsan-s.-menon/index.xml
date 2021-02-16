@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sreevalsan S. Menon | sreevalsansmenon</title>
+    <link>/author/sreevalsan-s.-menon/</link>
+      <atom:link href="/author/sreevalsan-s.-menon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sreevalsan S. Menon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Oct 2019 21:55:21 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hudcab734957ca70575e9ebb0a44249827_73720_512x512_fill_lanczos_center_2.png</url>
+      <title>Sreevalsan S. Menon</title>
+      <link>/author/sreevalsan-s.-menon/</link>
+    </image>
+    
+    <item>
+      <title>A Study of Brain Neuronal and Functional Complexities Estimated Using Multiscale Entropy in Healthy Young Adults</title>
+      <link>/publication/my-publication2/</link>
+      <pubDate>Sat, 12 Oct 2019 21:55:21 -0500</pubDate>
+      <guid>/publication/my-publication2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comparison of Static and Dynamic Functional Connectivities for Identifying Subjects and Biological Sex Using Intrinsic Individual Brain Connectivity</title>
+      <link>/publication/my-publication/</link>
+      <pubDate>Fri, 05 Apr 2019 21:50:57 -0500</pubDate>
+      <guid>/publication/my-publication/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
